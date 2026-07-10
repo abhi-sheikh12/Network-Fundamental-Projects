@@ -18,7 +18,8 @@ Six independent LAN sites (LAN 1–LAN 6), each running its own router and dual 
 - DHCP handled per site
 
 ### 2. Hotel Network (3-Floor Enterprise)
-`Hotel.png`
+<img width="1206" height="1046" alt="Hotel" src="https://github.com/user-attachments/assets/66f355a5-e2d1-4f43-a519-4decbc50dd84" />
+
 
 A three-floor hotel network with per-floor routing and departmental VLAN segmentation.
 
@@ -29,7 +30,8 @@ A three-floor hotel network with per-floor routing and departmental VLAN segment
 - SSH management and port security applied to access-layer switches
 
 ### 3. Dual Data Center / 9-Site Enterprise
-`Cisco_Dual_DC.png`
+<img width="2801" height="1609" alt="Cisco Dual DC" src="https://github.com/user-attachments/assets/73e42bf1-6ae2-475d-b74f-437b422979ab" />
+
 
 The largest and most complex topology: 7 branch LANs plus a primary and backup data center, all reachable through 3 independent ISPs.
 
@@ -41,7 +43,8 @@ The largest and most complex topology: 7 branch LANs plus a primary and backup d
 - Designed to demonstrate high availability: no single router or WAN link failure should isolate a site from both data centers
 
 ### 4. Large-Scale Multi-VLAN Deployment
-`60_PCs_with_Labels.png`
+<img width="2187" height="2015" alt="60 PCs with Labels" src="https://github.com/user-attachments/assets/32c67326-de77-47ec-bd0c-52c24fcab715" />
+
 
 A six-site ring topology focused on scale and DHCP-based VLAN assignment rather than WAN complexity.
 
