@@ -6,7 +6,8 @@ Personal networking lab collection built in Cisco Packet Tracer while studying f
 ## Projects
 
 ### 1. Multi-Branch WAN with ISP Core
-`Ciscco - With ISP.png`
+<img width="1456" height="881" alt="Ciscco - WIth ISP" src="https://github.com/user-attachments/assets/9c78b5cb-bf75-4bbc-aefa-2ee5cddb4cf6" />
+
 
 Six independent LAN sites (LAN 1–LAN 6), each running its own router and dual access-layer switches, connected through a 3-router ISP core mesh.
 
